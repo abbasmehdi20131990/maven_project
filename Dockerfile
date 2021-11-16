@@ -1,4 +1,4 @@
-t latest image from dockerhub
+#pull tomcat latest image from dockerhub
 From tomcat:latest
 # Maintainer
 MAINTAINER "Mohamed Taher"
